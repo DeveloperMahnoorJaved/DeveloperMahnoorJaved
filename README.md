@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahnoor Javed</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EC407A&height=140&section=header&text=Mahnoor%20Javed&fontSize=45&fontColor=ffffff&fontAlignY=32&animation=fadeInOut"/>
 <h3 align="center">Iam passionate Mern-Stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developermahnoorjaved&label=Profile%20views&color=0e75b6&style=flat" alt="developermahnoorjaved" /> </p>
