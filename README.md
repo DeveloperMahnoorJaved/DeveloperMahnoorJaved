@@ -24,6 +24,8 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,github,vscode" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 
