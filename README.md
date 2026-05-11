@@ -15,3 +15,15 @@
 <p align="left">
 </p>
 
+<h3 align="center">Frontend Developer | React Learner</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;Building+Creative+Websites" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,github,vscode" />
+</p>
+
+
+
