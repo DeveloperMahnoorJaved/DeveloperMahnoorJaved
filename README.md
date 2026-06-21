@@ -1,41 +1,71 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,50:EC407A&height=140&section=header&text=Mahnoor%20Javed&fontSize=45&fontColor=ffffff&fontAlignY=32&animation=fadeInOut"/>
 <h3 align="center">Iam passionate Mern-Stack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermahnoorjaved&label=Profile%20views&color=0e75b6&style=flat" alt="developermahnoorjaved" /> </p>
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-ff69b4?style=for-the-badge)
+![Full Stack Trainer](https://img.shields.io/badge/Full%20Stack%20Trainer-8e44ad?style=for-the-badge)
+![Co-Founder MN Tech Academy](https://img.shields.io/badge/Co--Founder-MN%20Tech%20Academy-ffb6c1?style=for-the-badge)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developermahnoorjaved" alt="developermahnoorjaved" /></a> </p>
 
-- 🌱 I’m currently learning **MongoDB,Express.js,Node.js**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/mahnoor-javed-bb68a4321/](https://www.linkedin.com/in/mahnoor-javed-bb68a4321/)
-<h1 align="center">Hi 👋, I'm Mahnoor Javed</h1>
+ Turning ideas into modern web experiences  
+ Teaching & building real-world projects  
+  Passionate about clean UI & scalable apps
 
-<h3 align="center">
-Frontend Developer • React Enthusiast • Web Development Instructor
-</h3>
+
+
+
+<div align="center">
+
+##  About Me
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+Stack+Specialist;Full+Stack+Trainer+%7C+Mentor+at+MN+Tech+Academy;Co-Founder+%7C+Building+Future+Developers" />
+
+</div>
+
+
+
+## ✨ Profile Overview
+
+I am a passionate **Full Stack Developer (MERN Stack)** from Pakistan with expertise in building modern, responsive, and scalable web applications.
+
+Currently, I am working as a **Full Stack Trainer** and **Co-Founder at MN Tech Academy**, where I teach and mentor students through real-world, project-based learning experiences.
+
+I focus on writing clean code, building interactive UI experiences, and continuously improving my development skills with modern technologies.
+
+
+
+## 💼 Experience
+
+- 🎓 **Full Stack Trainer** – AUJ Computer Institute (Present)  
+  Teaching Frontend and Backend Development with practical projects.
+
+- 🏢 **Co-Founder** – MN Tech Academy  
+  Managing academic structure, curriculum planning, and student development programs.
+
+- 💻 **MERN Stack Developer**  
+  Building responsive web applications using MongoDB, Express, React & Node.js.
+
+
+
+## ⚡ Tech Stack
 
 <p align="center">
-Turning ideas into modern, responsive, and user-friendly web experiences.
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
+
 </p>
 
-<p align="center">
-🌱 Currently learning <strong>Advanced React, Next.js & Backend Development</strong><br>
-👩‍🏫 Teaching aspiring developers and helping students build real-world projects<br>
-💼 Open to Freelance Opportunities & Collaborations<br>
-🚀 Passionate about creating clean, scalable, and interactive web applications
-</p>
 
----
 
-## ✨ About Me
+## 🚀 What I Do
 
-I'm a passionate Frontend Developer who enjoys transforming ideas into visually appealing and functional digital experiences.
+- 🌐 Full Stack Web Development  
+- 🎯 UI/UX Focused Frontend Design  
+- 👨‍🏫 Teaching & Mentoring Students  
+- 🛠 Building Real-World Projects  
+- 📈 Continuous Learning & Improvement  
 
-My journey started with HTML & CSS and gradually expanded into JavaScript, React, Git, GitHub, and modern web development tools. Alongside development, I also teach web development and guide students through practical projects, helping them build confidence in coding.
-
-I believe great websites are not just built with code — they're built with creativity, attention to detail, and a deep understanding of user experience.
-
----
+</div>
 
 ## Tech Stack
 
