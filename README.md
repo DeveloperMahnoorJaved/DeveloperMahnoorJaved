@@ -48,9 +48,10 @@ I focus on writing clean code, building interactive UI experiences, and continuo
   Building responsive web applications using MongoDB, Express, React & Node.js.
   
 - 💻 **Internships 2025**
-- 
+  
    Apexcify Technologys.
-  DevelopersHub Corporations
+  
+  DevelopersHub Corporations.
 
 
 ## ⚡ Tech Stack
