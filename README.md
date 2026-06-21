@@ -38,13 +38,19 @@ I focus on writing clean code, building interactive UI experiences, and continuo
 
 - 🎓 **Full Stack Trainer** – AUJ Computer Institute (Present)  
   Teaching Frontend and Backend Development with practical projects.
+  
 
 - 🏢 **Co-Founder** – MN Tech Academy  
   Managing academic structure, curriculum planning, and student development programs.
+  
 
 - 💻 **MERN Stack Developer**  
   Building responsive web applications using MongoDB, Express, React & Node.js.
-
+  
+- 💻 **Internships 2025**
+- 
+   Apexcify Technologys.
+  DevelopersHub Corporations
 
 
 ## ⚡ Tech Stack
